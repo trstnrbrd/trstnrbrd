@@ -40,7 +40,7 @@ Tools     Git · VS Code · Postman
 
 Unified management platform for a brokerage firm and auto shop — handling records, workflows, and reporting under one system.
 
-<video src="https://github.com/user-attachments/assets/d9908e06-3b51-4595-8da3-723bbff3ed56" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/d9908e06-3b51-4595-8da3-723bbff3ed56" controls muted width="100%"></video>
 
 <br/>
 
