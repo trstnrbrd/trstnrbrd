@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=140&section=header&text=Tristan%20Reboredo&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20·%20BSIT%20Student%20·%20Sta.%20Maria%2C%20Bulacan&descSize=14&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=140&section=header&text=Tristan%20Reboredo&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=BSIT%20Student%20·%20Sta.%20Maria%2C%20Bulacan&descSize=14&descAlignY=58" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=PHP+%7C+Laravel+%7C+MySQL;Tailwind+CSS+%7C+Alpine.js;Building+tools+for+real+businesses.)](https://git.io/typing-svg)
 
