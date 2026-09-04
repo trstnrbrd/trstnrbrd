@@ -2,13 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Tristan%20Reboredo&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20·%20BSIT%20Student&descSize=16&descAlignY=55" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Laravel+%7C+PHP+%7C+MySQL;Tailwind+CSS+%7C+Alpine.js;Building+practical+tools+for+real+businesses)](https://git.io/typing-svg)
+**Laravel · PHP · MySQL · Tailwind CSS · Alpine.js**
+Building practical tools for real businesses
 
 </div>
 
 <br/>
 
-<img align="right" src="https://github.com/trstnrbrd.png" width="150" alt="Tristan Reboredo" style="border-radius:50%;margin-left:24px"/>
+<img align="right" src="https://github.com/trstnrbrd.png?size=150" width="150" height="150" alt="Tristan Reboredo"/>
 
 ## About Me
 
@@ -49,19 +50,6 @@ I'm a BSIT student at STI College, Sta. Maria, focused on web development. I bui
 
 ## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/trstnrbrd/TG_BASICS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trstnrbrd&repo=TG_BASICS&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/trstnrbrd/G-Track">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trstnrbrd&repo=G-Track&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<br/>
-
 **[TG_BASICS](https://github.com/trstnrbrd/TG_BASICS)** — Brokerage & Auto Shop Integrated Central System
 > A management platform for real-world business operations — handling records, workflows, and reporting for a brokerage firm and an auto shop under one system.
 
@@ -71,16 +59,6 @@ I'm a BSIT student at STI College, Sta. Maria, focused on web development. I bui
 > A web-based tracker built for a small sari-sari store to monitor GCash transactions, service fees, and cash flow — bringing order to daily financial records.
 
 `PHP` `Laravel` `MySQL` `Blade` `Tailwind CSS` `Alpine.js`
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=trstnrbrd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-
-</div>
 
 ---
 
