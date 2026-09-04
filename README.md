@@ -1,15 +1,8 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=120&section=header&fontColor=fff"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=120&section=header" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=140&section=header&text=Tristan%20Reboredo&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20·%20BSIT%20Student%20·%20Sta.%20Maria%2C%20Bulacan&descSize=14&descAlignY=58" width="100%"/>
 
-<h1>Tristan Reboredo</h1>
-
-<p>
-  Web Developer &nbsp;·&nbsp; BSIT Student &nbsp;·&nbsp; Sta. Maria, Bulacan
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=PHP+%7C+Laravel+%7C+MySQL;Tailwind+CSS+%7C+Alpine.js;Building+tools+for+real+businesses.)](https://git.io/typing-svg)
 
 <p>
   <a href="mailto:tristhawnreboredo@gmail.com"><img src="https://img.shields.io/badge/Gmail-tristhawnreboredo-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -25,11 +18,12 @@
 
 <br/>
 
-I build web systems for small businesses — the kind that replace spreadsheets and paper logs with software that actually fits how the business runs. Currently studying at **STI College, Sta. Maria** and working with the Laravel ecosystem.
+I build web systems for small businesses — the kind that replace spreadsheets and paper logs with software that actually fits how the business runs. Currently studying at **STI College, Sta. Maria** and working with the Laravel ecosystem. Also getting into AI automation with **n8n**.
 
 <br/>
 
 ## Stack
+
 
 ```
 Backend   PHP · Laravel · MySQL
@@ -46,7 +40,7 @@ Tools     Git · VS Code · Postman
 
 Unified management platform for a brokerage firm and auto shop — handling records, workflows, and reporting under one system.
 
-<img src="assets/tg_landing.png" alt="TG-BASICS" width="100%" style="border-radius:8px"/>
+<img src="assets/tg_landing.png" alt="TG-BASICS" width="100%"/>
 
 <br/>
 
@@ -55,7 +49,7 @@ Unified management platform for a brokerage firm and auto shop — handling reco
 
 Built for a sari-sari store owner to track GCash transactions, fees, and daily cash flow — turning scattered receipts into clear records.
 
-<img src="assets/gtrack_landing.png" alt="G-Track" width="100%" style="border-radius:8px"/>
+<img src="assets/gtrack_landing.png" alt="G-Track" width="100%"/>
 
 <br/>
 
@@ -63,14 +57,16 @@ Built for a sari-sari store owner to track GCash transactions, fees, and daily c
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=trstnrbrd&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trstnrbrd&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=trstnrbrd&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true&rank_icon=github" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trstnrbrd&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=trstnrbrd&theme=tokyonight&hide_border=true" width="496"/>
 
 </div>
 
 <br/>
 
-<picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=80&section=footer" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=90&section=footer" width="100%"/>
