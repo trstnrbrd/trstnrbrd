@@ -1,10 +1,15 @@
 <div align="center">
 
-# Tristan Reboredo
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=150&section=header&text=Tristan%20Reboredo&fontSize=38&fontColor=E6EDF3&fontAlignY=42&desc=BACKEND%20ENGINEERING%20%7C%20STUDENT&descSize=13&descColor=8B949E&descAlignY=68" width="100%" alt="Tristan Reboredo — Backend Engineering"/>
 
 **Backend engineering student** · STI College, Sta. Maria
 
-[Website](https://n8x.tech) · [GitHub](https://github.com/trstnrbrd) · [LinkedIn](https://www.linkedin.com/in/tristan-reboredo-952305354/) · [Email](mailto:tristhawnreboredo@gmail.com)
+<p>
+  <a href="https://n8x.tech"><img src="https://img.shields.io/badge/Website-n8x.tech-21262D?style=flat&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://github.com/trstnrbrd"><img src="https://img.shields.io/badge/GitHub-trstnrbrd-21262D?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/tristan-reboredo-952305354/"><img src="https://img.shields.io/badge/LinkedIn-Tristan_Reboredo-21262D?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:tristhawnreboredo@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-21262D?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 </div>
 
@@ -72,6 +77,7 @@ I’m a student who loves backend engineering—building reliable systems, APIs,
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-2D333B?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code"/></a>
   <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-2D333B?style=flat&logo=postman&logoColor=white" alt="Postman"/></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2D333B?style=flat&logo=docker&logoColor=white" alt="Docker"/></a>
+  <a href="https://www.apachefriends.org/"><img src="https://img.shields.io/badge/XAMPP-2D333B?style=flat&logo=xampp&logoColor=white" alt="XAMPP"/></a>
 </p>
 
 ## Projects
@@ -92,5 +98,9 @@ GCash transaction tracker for a sari-sari store, organizing fees and daily cash 
 
 <img src="https://github-readme-stats-seven-psi-26.vercel.app/api?username=trstnrbrd&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true&rank_icon=github" height="150" alt="GitHub stats"/>
 <img src="https://github-readme-stats-seven-psi-26.vercel.app/api/top-langs/?username=trstnrbrd&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=trstnrbrd&theme=transparent&hide_border=true" width="500" alt="GitHub streak stats"/>
 
 </div>
