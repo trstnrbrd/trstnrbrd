@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030407,50:09070F,100:140D1B&height=150&section=header&text=Tristan%20Reboredo&fontFamily=Press%20Start%202P&fontSize=24&fontColor=E6EDF3&fontAlignY=42&desc=BACKEND%20ENGINEERING%20%7C%20STUDENT&descSize=8&descColor=AAA3B5&descAlignY=72" width="100%" alt="Tristan Reboredo — Backend Engineering"/>
+<img src="assets/profile-banner.png" width="100%" alt="Tristan Reboredo — Backend Engineering in pixel font"/>
 
 **Backend engineering student** · STI College, Sta. Maria
 
