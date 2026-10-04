@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=140&section=header&text=Tristan%20Reboredo&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=BSIT%20Student%20·%20Sta.%20Maria%2C%20Bulacan&descSize=14&descAlignY=58" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=PHP+%7C+Laravel+%7C+MySQL;Tailwind+CSS+%7C+Alpine.js;Building+tools+for+real+businesses.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Backend+Engineering;PHP+%7C+Laravel+%7C+Python;APIs+%7C+Databases+%7C+Reliable+Systems)](https://git.io/typing-svg)
 
 <p>
   <a href="mailto:tristhawnreboredo@gmail.com"><img src="https://img.shields.io/badge/Gmail-tristhawnreboredo-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -18,33 +18,70 @@
 
 <br/>
 
-I build web systems for small businesses — the kind that replace spreadsheets and paper logs with software that actually fits how the business runs. Currently studying at **STI College, Sta. Maria** and working with the Laravel ecosystem. Also getting into AI automation with **n8n**.
+I’m a student at **STI College, Sta. Maria** with a growing passion for backend engineering. These days, I’m focused on building reliable server-side systems and exploring APIs, databases, and backend technologies. Find me at [n8x.tech](https://n8x.tech).
 
 <br/>
 
-## 🛠️ Tools & Stack
+## Tools & Stack
 
-### ⚙️ Backend & Data
+### Languages
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+<p>
+  <img src="https://img.shields.io/badge/PHP-2D333B?style=flat&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Python-2D333B?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-2D333B?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-2D333B?style=flat&logo=javascript&logoColor=white" alt="JavaScript"/>
+</p>
 
-### 🎨 Frontend
+### Backend & APIs
 
-<img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Blade"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black" alt="Alpine.js"/>
+<p>
+  <img src="https://img.shields.io/badge/Laravel-2D333B?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Express.js-2D333B?style=flat&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Hono_(Express)-2D333B?style=flat&logo=hono&logoColor=white" alt="Hono (Express)"/>
+  <img src="https://img.shields.io/badge/Django-2D333B?style=flat&logo=django&logoColor=white" alt="Django"/>
+</p>
 
-### 🤖 Automation
+### Databases & Services
 
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-2D333B?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-2D333B?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MariaDB-2D333B?style=flat&logo=mariadb&logoColor=white" alt="MariaDB"/>
+  <img src="https://img.shields.io/badge/Supabase-2D333B?style=flat&logo=supabase&logoColor=white" alt="Supabase"/>
+</p>
 
-### 🔧 Tools & Workflow
+### Frontend
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+<p>
+  <img src="https://img.shields.io/badge/Blade-2D333B?style=flat&logo=laravel&logoColor=white" alt="Blade"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-2D333B?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Alpine.js-2D333B?style=flat&logo=alpinedotjs&logoColor=white" alt="Alpine.js"/>
+</p>
+
+### AI Coding & Builders
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-2D333B?style=flat&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/Codex-2D333B?style=flat&logo=openai&logoColor=white" alt="Codex"/>
+  <img src="https://img.shields.io/badge/Claude_Code-2D333B?style=flat&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Lovable_AI-2D333B?style=flat&logo=lovable&logoColor=white" alt="Lovable AI"/>
+</p>
+
+### Automation
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-2D333B?style=flat&logo=n8n&logoColor=white" alt="n8n"/>
+</p>
+
+### Tools & Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Git-2D333B?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS_Code-2D333B?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Postman-2D333B?style=flat&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Docker-2D333B?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+</p>
 
 <br/>
 
