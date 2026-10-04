@@ -82,15 +82,33 @@ I’m a student who loves backend engineering—building reliable systems, APIs,
 
 ## Projects
 
-### [TG-BASICS](https://github.com/trstnrbrd/TG_BASICS)
-Brokerage and auto shop management system for records, workflows, and reporting.
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/trstnrbrd/TG_BASICS">TG-BASICS</a></h3>
+      <p>Brokerage and auto shop management system for records, workflows, and reporting.</p>
+      <video src="https://github.com/user-attachments/assets/bb29e890-6f1e-41dd-a53c-e4c948b07f34" controls width="100%"></video>
+      <p>
+        <a href="https://github.com/user-attachments/assets/bb29e890-6f1e-41dd-a53c-e4c948b07f34"><img src="https://img.shields.io/badge/Watch_Demo-2D333B?style=flat&logo=youtube&logoColor=white" alt="Watch TG-BASICS demo"/></a>
+        <a href="https://github.com/trstnrbrd/TG_BASICS"><img src="https://img.shields.io/badge/View_Repository-2D333B?style=flat&logo=github&logoColor=white" alt="View TG-BASICS repository"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-[Watch project demo](https://github.com/user-attachments/assets/bb29e890-6f1e-41dd-a53c-e4c948b07f34)
-
-### [G-Track](https://github.com/trstnrbrd/G-Track) · In progress
-GCash transaction tracker for a sari-sari store, organizing fees and daily cash flow.
-
-<img src="assets/gtrack_landing.png" alt="G-Track dashboard with cash balances, transaction summaries, and cash-in and cash-out actions" width="720"/>
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/trstnrbrd/G-Track">G-Track</a> · In progress</h3>
+      <p>GCash transaction tracker for a sari-sari store, organizing fees and daily cash flow.</p>
+      <a href="assets/gtrack_landing.png"><img src="assets/gtrack_landing.png" alt="G-Track dashboard with cash balances, transaction summaries, and cash-in and cash-out actions" width="100%"/></a>
+      <p>
+        <a href="assets/gtrack_landing.png"><img src="https://img.shields.io/badge/View_Preview-2D333B?style=flat&logo=googlechrome&logoColor=white" alt="View G-Track preview"/></a>
+        <a href="https://github.com/trstnrbrd/G-Track"><img src="https://img.shields.io/badge/View_Repository-2D333B?style=flat&logo=github&logoColor=white" alt="View G-Track repository"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## GitHub
 
