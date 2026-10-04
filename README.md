@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=150&section=header&text=Tristan%20Reboredo&fontSize=38&fontColor=E6EDF3&fontAlignY=42&desc=BACKEND%20ENGINEERING%20%7C%20STUDENT&descSize=13&descColor=8B949E&descAlignY=68" width="100%" alt="Tristan Reboredo — Backend Engineering"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030407,50:09070F,100:140D1B&height=150&section=header&text=Tristan%20Reboredo&fontFamily=Inter&fontSize=38&fontColor=E6EDF3&fontAlignY=42&desc=BACKEND%20ENGINEERING%20%7C%20STUDENT&descSize=13&descColor=AAA3B5&descAlignY=68" width="100%" alt="Tristan Reboredo — Backend Engineering"/>
 
 **Backend engineering student** · STI College, Sta. Maria
 
@@ -87,6 +87,7 @@ I’m a student who loves backend engineering—building reliable systems, APIs,
     <td>
       <h3><a href="https://github.com/trstnrbrd/TG_BASICS">TG-BASICS</a></h3>
       <p>Brokerage and auto shop management system for records, workflows, and reporting.</p>
+      <video src="https://github.com/user-attachments/assets/bb29e890-6f1e-41dd-a53c-e4c948b07f34" controls width="100%"></video>
       <p>
         <a href="https://tgbasics.infinityfreeapp.com/TG-BASICS/"><img src="https://img.shields.io/badge/Live_Demo-2D333B?style=flat&logo=googlechrome&logoColor=white" alt="TG-BASICS live demo"/></a>
         <a href="https://github.com/trstnrbrd/TG_BASICS"><img src="https://img.shields.io/badge/View_Repository-2D333B?style=flat&logo=github&logoColor=white" alt="View TG-BASICS repository"/></a>
