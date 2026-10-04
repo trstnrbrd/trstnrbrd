@@ -1,124 +1,96 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=140&section=header&text=Tristan%20Reboredo&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=BSIT%20Student%20·%20Sta.%20Maria%2C%20Bulacan&descSize=14&descAlignY=58" width="100%"/>
+# Tristan Reboredo
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Backend+Engineering;PHP+%7C+Laravel+%7C+Python;APIs+%7C+Databases+%7C+Reliable+Systems)](https://git.io/typing-svg)
+**Backend engineering student** · STI College, Sta. Maria
 
-<p>
-  <a href="mailto:tristhawnreboredo@gmail.com"><img src="https://img.shields.io/badge/Gmail-tristhawnreboredo-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/tristan-reboredo-952305354/"><img src="https://img.shields.io/badge/LinkedIn-Tristan%20Reboredo-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://www.instagram.com/ethnrbrd_/"><img src="https://img.shields.io/badge/Instagram-@ethnrbrd__-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=trstnrbrd&style=flat-square&color=6e7681&label=views"/>
-</p>
+[Website](https://n8x.tech) · [GitHub](https://github.com/trstnrbrd) · [LinkedIn](https://www.linkedin.com/in/tristan-reboredo-952305354/) · [Email](mailto:tristhawnreboredo@gmail.com)
 
 </div>
 
-<br/>
+---
 
-I’m a student at **STI College, Sta. Maria** with a growing passion for backend engineering. These days, I’m focused on building reliable server-side systems and exploring APIs, databases, and backend technologies. Find me at [n8x.tech](https://n8x.tech).
-
-<br/>
+I’m a student who loves backend engineering—building reliable systems, APIs, and the data layers behind useful products.
 
 ## Tools & Stack
 
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/PHP-2D333B?style=flat&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Python-2D333B?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-2D333B?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-2D333B?style=flat&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-2D333B?style=flat&logo=php&logoColor=white" alt="PHP"/></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-2D333B?style=flat&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-2D333B?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-2D333B?style=flat&logo=javascript&logoColor=white" alt="JavaScript"/></a>
+  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-2D333B?style=flat&logo=openjdk&logoColor=white" alt="Java"/></a>
 </p>
 
 ### Backend & APIs
 
 <p>
-  <img src="https://img.shields.io/badge/Laravel-2D333B?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Express.js-2D333B?style=flat&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Hono_(Express)-2D333B?style=flat&logo=hono&logoColor=white" alt="Hono (Express)"/>
-  <img src="https://img.shields.io/badge/Django-2D333B?style=flat&logo=django&logoColor=white" alt="Django"/>
+  <a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-2D333B?style=flat&logo=laravel&logoColor=white" alt="Laravel"/></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-2D333B?style=flat&logo=express&logoColor=white" alt="Express.js"/></a>
+  <a href="https://hono.dev/"><img src="https://img.shields.io/badge/Hono-2D333B?style=flat&logo=hono&logoColor=white" alt="Hono"/></a>
+  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-2D333B?style=flat&logo=django&logoColor=white" alt="Django"/></a>
 </p>
 
 ### Databases & Services
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-2D333B?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-2D333B?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MariaDB-2D333B?style=flat&logo=mariadb&logoColor=white" alt="MariaDB"/>
-  <img src="https://img.shields.io/badge/Supabase-2D333B?style=flat&logo=supabase&logoColor=white" alt="Supabase"/>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-2D333B?style=flat&logo=mysql&logoColor=white" alt="MySQL"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-2D333B?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+  <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-2D333B?style=flat&logo=mariadb&logoColor=white" alt="MariaDB"/></a>
+  <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-2D333B?style=flat&logo=supabase&logoColor=white" alt="Supabase"/></a>
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/Blade-2D333B?style=flat&logo=laravel&logoColor=white" alt="Blade"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-2D333B?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Alpine.js-2D333B?style=flat&logo=alpinedotjs&logoColor=white" alt="Alpine.js"/>
+  <a href="https://laravel.com/docs/blade"><img src="https://img.shields.io/badge/Blade-2D333B?style=flat&logo=laravel&logoColor=white" alt="Blade"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-2D333B?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/></a>
+  <a href="https://alpinejs.dev/"><img src="https://img.shields.io/badge/Alpine.js-2D333B?style=flat&logo=alpinedotjs&logoColor=white" alt="Alpine.js"/></a>
 </p>
 
 ### AI Coding & Builders
 
 <p>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-2D333B?style=flat&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
-  <img src="https://img.shields.io/badge/Codex-2D333B?style=flat&logo=openai&logoColor=white" alt="Codex"/>
-  <img src="https://img.shields.io/badge/Claude_Code-2D333B?style=flat&logo=anthropic&logoColor=white" alt="Claude Code"/>
-  <img src="https://img.shields.io/badge/Lovable_AI-2D333B?style=flat&logo=lovable&logoColor=white" alt="Lovable AI"/>
+  <a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/GitHub_Copilot-2D333B?style=flat&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/></a>
+  <a href="https://openai.com/codex/"><img src="https://img.shields.io/badge/Codex-2D333B?style=flat&logo=openai&logoColor=white" alt="Codex"/></a>
+  <a href="https://www.anthropic.com/claude-code"><img src="https://img.shields.io/badge/Claude_Code-2D333B?style=flat&logo=anthropic&logoColor=white" alt="Claude Code"/></a>
+  <a href="https://lovable.dev/"><img src="https://img.shields.io/badge/Lovable_AI-2D333B?style=flat&logo=lovable&logoColor=white" alt="Lovable AI"/></a>
 </p>
 
 ### Automation
 
 <p>
-  <img src="https://img.shields.io/badge/n8n-2D333B?style=flat&logo=n8n&logoColor=white" alt="n8n"/>
+  <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-2D333B?style=flat&logo=n8n&logoColor=white" alt="n8n"/></a>
 </p>
 
 ### Tools & Workflow
 
 <p>
-  <img src="https://img.shields.io/badge/Git-2D333B?style=flat&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS_Code-2D333B?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-2D333B?style=flat&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Docker-2D333B?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-2D333B?style=flat&logo=git&logoColor=white" alt="Git"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-2D333B?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code"/></a>
+  <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-2D333B?style=flat&logo=postman&logoColor=white" alt="Postman"/></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2D333B?style=flat&logo=docker&logoColor=white" alt="Docker"/></a>
 </p>
-
-<br/>
 
 ## Projects
 
 ### [TG-BASICS](https://github.com/trstnrbrd/TG_BASICS)
-**Brokerage & Auto Shop Integrated Central System**
+Brokerage and auto shop management system for records, workflows, and reporting.
 
-Unified management platform for a brokerage firm and auto shop — handling records, workflows, and reporting under one system.
+[Watch project demo](https://github.com/user-attachments/assets/bb29e890-6f1e-41dd-a53c-e4c948b07f34)
 
-<video src="https://github.com/user-attachments/assets/bb29e890-6f1e-41dd-a53c-e4c948b07f34" controls width="100%"></video>
+### [G-Track](https://github.com/trstnrbrd/G-Track) · In progress
+GCash transaction tracker for a sari-sari store, organizing fees and daily cash flow.
 
-<br/>
-
-### [G-Track](https://github.com/trstnrbrd/G-Track) &nbsp; `in progress`
-**GCash Transaction Management System**
-
-Built for a sari-sari store owner to track GCash transactions, fees, and daily cash flow — turning scattered receipts into clear records.
-
-<img src="assets/gtrack_landing.png" alt="G-Track" width="100%"/>
-
-<br/>
+<img src="assets/gtrack_landing.png" alt="G-Track preview" width="720"/>
 
 ## GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats-seven-psi-26.vercel.app/api?username=trstnrbrd&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true&rank_icon=github" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats-seven-psi-26.vercel.app/api/top-langs/?username=trstnrbrd&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=trstnrbrd&theme=tokyonight&hide_border=true" width="496"/>
+<img src="https://github-readme-stats-seven-psi-26.vercel.app/api?username=trstnrbrd&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true&rank_icon=github" height="150" alt="GitHub stats"/>
+<img src="https://github-readme-stats-seven-psi-26.vercel.app/api/top-langs/?username=trstnrbrd&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top languages"/>
 
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=90&section=footer" width="100%"/>
