@@ -90,7 +90,7 @@ Brokerage and auto shop management system for records, workflows, and reporting.
 ### [G-Track](https://github.com/trstnrbrd/G-Track) · In progress
 GCash transaction tracker for a sari-sari store, organizing fees and daily cash flow.
 
-<img src="assets/gtrack_landing.png" alt="G-Track preview" width="720"/>
+<img src="assets/gtrack_landing.png" alt="G-Track dashboard with cash balances, transaction summaries, and cash-in and cash-out actions" width="720"/>
 
 ## GitHub
 
