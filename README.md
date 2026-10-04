@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030407,50:09070F,100:140D1B&height=150&section=header&text=Tristan%20Reboredo&fontFamily=Inter&fontSize=38&fontColor=E6EDF3&fontAlignY=42&desc=BACKEND%20ENGINEERING%20%7C%20STUDENT&descSize=13&descColor=AAA3B5&descAlignY=68" width="100%" alt="Tristan Reboredo — Backend Engineering"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030407,50:09070F,100:140D1B&height=150&section=header&text=Tristan%20Reboredo&fontFamily=Press%20Start%202P&fontSize=24&fontColor=E6EDF3&fontAlignY=42&desc=BACKEND%20ENGINEERING%20%7C%20STUDENT&descSize=8&descColor=AAA3B5&descAlignY=72" width="100%" alt="Tristan Reboredo — Backend Engineering"/>
 
 **Backend engineering student** · STI College, Sta. Maria
 
@@ -114,11 +114,11 @@ I’m a student who loves backend engineering—building reliable systems, APIs,
 
 <div align="center">
 
-<img src="https://github-readme-stats-seven-psi-26.vercel.app/api?username=trstnrbrd&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true&rank_icon=github" height="150" alt="GitHub stats"/>
-<img src="https://github-readme-stats-seven-psi-26.vercel.app/api/top-langs/?username=trstnrbrd&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top languages"/>
+<img src="https://github-readme-stats-seven-psi-26.vercel.app/api?username=trstnrbrd&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true&rank_icon=github&icon_color=A78BFA&title_color=C4B5FD&text_color=AAA3B5" height="150" alt="GitHub stats"/>
+<img src="https://github-readme-stats-seven-psi-26.vercel.app/api/top-langs/?username=trstnrbrd&layout=compact&theme=transparent&hide_border=true&title_color=C4B5FD&text_color=AAA3B5" height="150" alt="Top languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=trstnrbrd&theme=transparent&hide_border=true" width="500" alt="GitHub streak stats"/>
+<img src="https://streak-stats.demolab.com?user=trstnrbrd&theme=transparent&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=A78BFA&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&stroke=8B5CF6" width="500" alt="GitHub streak stats"/>
 
 </div>
