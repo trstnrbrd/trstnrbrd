@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.png" width="100%" alt="Tristan Reboredo — Backend Engineering in pixel font"/>
+<img src="assets/profile-banner.png" width="100%" alt="Tristan Reboredo"/>
 
 **Backend engineering student** · STI College, Sta. Maria
 
@@ -36,7 +36,7 @@ I’m a student who loves backend engineering—building reliable systems, APIs,
   <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-2D333B?style=flat&logo=express&logoColor=white" alt="Express.js"/></a>
   <a href="https://hono.dev/"><img src="https://img.shields.io/badge/Hono-2D333B?style=flat&logo=hono&logoColor=white" alt="Hono"/></a>
   <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-2D333B?style=flat&logo=django&logoColor=white" alt="Django"/></a>
-  <a href="https://restfulapi.net/"><img src="https://img.shields.io/badge/REST_API-2D333B?style=flat&logo=api&logoColor=white" alt="REST API"/></a>
+  <a href="https://restfulapi.net/"><img src="https://img.shields.io/badge/REST_API-2D333B?style=flat&logo=swagger&logoColor=white" alt="REST API"/></a>
 </p>
 
 ### Databases & Services
