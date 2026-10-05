@@ -32,10 +32,25 @@ I’m a student who loves backend engineering—building reliable systems, APIs,
 ### Backend & APIs
 
 <p>
-  <a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-2D333B?style=flat&logo=laravel&logoColor=white" alt="Laravel"/></a>
-  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-2D333B?style=flat&logo=express&logoColor=white" alt="Express.js"/></a>
-  <a href="https://hono.dev/"><img src="https://img.shields.io/badge/Hono-2D333B?style=flat&logo=hono&logoColor=white" alt="Hono"/></a>
-  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-2D333B?style=flat&logo=django&logoColor=white" alt="Django"/></a>
+<a href="https://laravel.com/">
+  <img src="https://img.shields.io/badge/Laravel-2D333B?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
+</a>
+
+<a href="https://expressjs.com/">
+  <img src="https://img.shields.io/badge/Express.js-2D333B?style=flat&logo=express&logoColor=white" alt="Express.js"/>
+</a>
+
+<a href="https://hono.dev/">
+  <img src="https://img.shields.io/badge/Hono-2D333B?style=flat&logo=hono&logoColor=white" alt="Hono"/>
+</a>
+
+<a href="https://www.djangoproject.com/">
+  <img src="https://img.shields.io/badge/Django-2D333B?style=flat&logo=django&logoColor=white" alt="Django"/>
+</a>
+
+<a href="https://restfulapi.net/">
+  <img src="https://img.shields.io/badge/REST%20API-2D333B?style=flat&logoColor=white" alt="REST API"/>
+</a>
 </p>
 
 ### Databases & Services
