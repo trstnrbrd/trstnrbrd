@@ -88,7 +88,7 @@ I’m a student who loves backend engineering—building reliable systems, APIs,
     <td>
       <h3><a href="https://github.com/trstnrbrd/TG_BASICS">TG-BASICS</a></h3>
       <p>Brokerage and auto shop management system for records, workflows, and reporting.</p>
-      <video src="assets/tg-basicsad.mp4" controls width="100%"></video>
+      <p><a href="https://raw.githubusercontent.com/trstnrbrd/trstnrbrd/main/assets/tg-basicsad.mp4">▶ Watch the TG-BASICS demo</a></p>
       <p>
         <a href="https://tgbasics.infinityfreeapp.com/TG-BASICS/"><img src="https://img.shields.io/badge/Live_Demo-2D333B?style=flat&logo=googlechrome&logoColor=white" alt="TG-BASICS live demo"/></a>
         <a href="https://github.com/trstnrbrd/TG_BASICS"><img src="https://img.shields.io/badge/View_Repository-2D333B?style=flat&logo=github&logoColor=white" alt="View TG-BASICS repository"/></a>
