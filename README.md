@@ -54,15 +54,17 @@ I’m a student who loves backend engineering—building reliable systems, APIs,
   <a href="https://laravel.com/docs/blade"><img src="https://img.shields.io/badge/Blade-2D333B?style=flat&logo=laravel&logoColor=white" alt="Blade"/></a>
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-2D333B?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/></a>
   <a href="https://alpinejs.dev/"><img src="https://img.shields.io/badge/Alpine.js-2D333B?style=flat&logo=alpinedotjs&logoColor=white" alt="Alpine.js"/></a>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-2D333B?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
 </p>
 
-### AI Coding & Builders
+### Agentic Builders
 
 <p>
   <a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/GitHub_Copilot-2D333B?style=flat&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/></a>
   <a href="https://openai.com/codex/"><img src="https://img.shields.io/badge/Codex-2D333B?style=flat&logo=openai&logoColor=white" alt="Codex"/></a>
   <a href="https://www.anthropic.com/claude-code"><img src="https://img.shields.io/badge/Claude_Code-2D333B?style=flat&logo=anthropic&logoColor=white" alt="Claude Code"/></a>
   <a href="https://lovable.dev/"><img src="https://img.shields.io/badge/Lovable_AI-2D333B?style=flat&logo=lovable&logoColor=white" alt="Lovable AI"/></a>
+  <a href="https://antigravity.google/"><img src="https://img.shields.io/badge/Antigravity-2D333B?style=flat&logo=google&logoColor=white" alt="Antigravity"/></a>
 </p>
 
 ### Automation
@@ -79,6 +81,7 @@ I’m a student who loves backend engineering—building reliable systems, APIs,
   <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-2D333B?style=flat&logo=postman&logoColor=white" alt="Postman"/></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2D333B?style=flat&logo=docker&logoColor=white" alt="Docker"/></a>
   <a href="https://www.apachefriends.org/"><img src="https://img.shields.io/badge/XAMPP-2D333B?style=flat&logo=xampp&logoColor=white" alt="XAMPP"/></a>
+  <a href="https://sentry.io/"><img src="https://img.shields.io/badge/Sentry-2D333B?style=flat&logo=sentry&logoColor=white" alt="Sentry"/></a>
 </p>
 
 ## Projects
