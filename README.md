@@ -46,6 +46,8 @@ I’m a student who loves backend engineering—building reliable systems, APIs,
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-2D333B?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
   <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-2D333B?style=flat&logo=mariadb&logoColor=white" alt="MariaDB"/></a>
   <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-2D333B?style=flat&logo=supabase&logoColor=white" alt="Supabase"/></a>
+  <a href="https://orm.drizzle.team/"><img src="https://img.shields.io/badge/Drizzle_ORM-2D333B?style=flat&logo=drizzle&logoColor=white" alt="Drizzle ORM"/></a>
+  <a href="https://zod.dev/"><img src="https://img.shields.io/badge/Zod-2D333B?style=flat&logo=zod&logoColor=white" alt="Zod"/></a>
 </p>
 
 ### Frontend
@@ -82,6 +84,17 @@ I’m a student who loves backend engineering—building reliable systems, APIs,
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2D333B?style=flat&logo=docker&logoColor=white" alt="Docker"/></a>
   <a href="https://www.apachefriends.org/"><img src="https://img.shields.io/badge/XAMPP-2D333B?style=flat&logo=xampp&logoColor=white" alt="XAMPP"/></a>
   <a href="https://sentry.io/"><img src="https://img.shields.io/badge/Sentry-2D333B?style=flat&logo=sentry&logoColor=white" alt="Sentry"/></a>
+  <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-2D333B?style=flat&logo=vercel&logoColor=white" alt="Vercel"/></a>
+  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2D333B?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/></a>
+</p>
+
+### Testing
+
+<p>
+  <a href="https://vitest.dev/"><img src="https://img.shields.io/badge/Vitest-2D333B?style=flat&logo=vitest&logoColor=white" alt="Vitest"/></a>
+  <a href="https://playwright.dev/"><img src="https://img.shields.io/badge/Playwright-2D333B?style=flat&logo=playwright&logoColor=white" alt="Playwright"/></a>
+  <a href="https://k6.io/"><img src="https://img.shields.io/badge/k6-2D333B?style=flat&logo=k6&logoColor=white" alt="k6"/></a>
+  <a href="https://phpunit.de/"><img src="https://img.shields.io/badge/PHPUnit-2D333B?style=flat&logo=php&logoColor=white" alt="PHPUnit"/></a>
 </p>
 
 ## Projects
@@ -109,6 +122,20 @@ I’m a student who loves backend engineering—building reliable systems, APIs,
       <p>
         <a href="assets/gtrack_landing.png"><img src="https://img.shields.io/badge/View_Preview-2D333B?style=flat&logo=googlechrome&logoColor=white" alt="View G-Track preview"/></a>
         <a href="https://github.com/trstnrbrd/G-Track"><img src="https://img.shields.io/badge/View_Repository-2D333B?style=flat&logo=github&logoColor=white" alt="View G-Track repository"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/LhennaV/Trybe">Trybe</a> · In progress</h3>
+      <p>Mobile-first app for trading hobby tools and equipment: item for item, or with a cash or item top-up. I handle the backend (accounts, database, auth, and testing) while Lhenna leads design and frontend.</p>
+      <a href="https://trybe-puce.vercel.app"><img src="assets/trybe_banner.svg" alt="Trybe: a mobile-first app for trading hobby tools and equipment" width="100%"/></a>
+      <p>
+        <a href="https://trybe-puce.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-2D333B?style=flat&logo=googlechrome&logoColor=white" alt="Trybe live demo"/></a>
+        <a href="https://github.com/LhennaV/Trybe"><img src="https://img.shields.io/badge/View_Repository-2D333B?style=flat&logo=github&logoColor=white" alt="View Trybe repository"/></a>
       </p>
     </td>
   </tr>
