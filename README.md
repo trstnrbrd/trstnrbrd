@@ -13,7 +13,7 @@
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 I’m a student who loves backend engineering—building reliable systems, APIs, and the data layers behind useful products.
 
@@ -107,6 +107,8 @@ I’m a student who loves backend engineering—building reliable systems, APIs,
 <a href="https://github.com/trstnrbrd/TG_BASICS"><img src="https://img.shields.io/badge/View_Repository-2D333B?style=flat&logo=github&logoColor=white" alt="View TG-BASICS repository"/></a>
 </p>
 
+<img src="assets/divider.svg" width="100%" alt=""/>
+
 <h3><a href="https://github.com/trstnrbrd/G-Track">G-Track</a> · In progress</h3>
 <p>GCash transaction tracker for a sari-sari store, organizing fees and daily cash flow.</p>
 <a href="assets/gtrack_landing.png"><img src="assets/gtrack_banner.svg" alt="G-Track: GCash transaction and store management system" width="100%"/></a>
@@ -115,6 +117,8 @@ I’m a student who loves backend engineering—building reliable systems, APIs,
 <a href="https://github.com/trstnrbrd/G-Track"><img src="https://img.shields.io/badge/View_Repository-2D333B?style=flat&logo=github&logoColor=white" alt="View G-Track repository"/></a>
 </p>
 
+<img src="assets/divider.svg" width="100%" alt=""/>
+
 <h3><a href="https://github.com/LhennaV/Trybe">Trybe</a> · In progress</h3>
 <p>Mobile-first app for trading hobby tools and equipment: item for item, or with a cash or item top-up. I handle the backend (accounts, database, auth, and testing) while Lhenna leads design and frontend.</p>
 <a href="https://trybe-puce.vercel.app"><img src="assets/trybe_banner.svg" alt="Trybe: a mobile-first app for trading hobby tools and equipment" width="100%"/></a>
@@ -122,6 +126,8 @@ I’m a student who loves backend engineering—building reliable systems, APIs,
 <a href="https://trybe-puce.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-2D333B?style=flat&logo=googlechrome&logoColor=white" alt="Trybe live demo"/></a>
 <a href="https://github.com/LhennaV/Trybe"><img src="https://img.shields.io/badge/View_Repository-2D333B?style=flat&logo=github&logoColor=white" alt="View Trybe repository"/></a>
 </p>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## GitHub
 
