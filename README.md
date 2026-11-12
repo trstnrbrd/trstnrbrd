@@ -118,7 +118,7 @@ I’m a student who loves backend engineering—building reliable systems, APIs,
     <td>
       <h3><a href="https://github.com/trstnrbrd/G-Track">G-Track</a> · In progress</h3>
       <p>GCash transaction tracker for a sari-sari store, organizing fees and daily cash flow.</p>
-      <a href="assets/gtrack_landing.png"><img src="assets/gtrack_landing.png" alt="G-Track dashboard with cash balances, transaction summaries, and cash-in and cash-out actions" width="100%"/></a>
+      <a href="assets/gtrack_landing.png"><img src="assets/gtrack_banner.svg" alt="G-Track: GCash transaction and store management system" width="100%"/></a>
       <p>
         <a href="assets/gtrack_landing.png"><img src="https://img.shields.io/badge/View_Preview-2D333B?style=flat&logo=googlechrome&logoColor=white" alt="View G-Track preview"/></a>
         <a href="https://github.com/trstnrbrd/G-Track"><img src="https://img.shields.io/badge/View_Repository-2D333B?style=flat&logo=github&logoColor=white" alt="View G-Track repository"/></a>
